@@ -412,9 +412,9 @@ footer {
     }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 767px) {
     header {
-        width: 171%;
+        width: 800px;
     }
 
     .slideshow-container {
@@ -433,11 +433,11 @@ footer {
     }
 
     .linha img {
-        width: 171%;
+        width: 800px;
     }
 
     .texto1 {
-        margin-left: 100px;
+        margin-left: 50px;
     }
 
     .texto1 h4 {
@@ -458,8 +458,7 @@ footer {
     .texto2 {
         width: 700px;
         height: 700px;
-        margin-left: 100px;
-
+        margin-left: 50px;
     }
 
     .texto2 p {
@@ -479,12 +478,8 @@ footer {
         margin-left: 310px;
     }
 
-    #maps{
-        margin-left: 150px;
-    }
-
     footer{
-        width: 171%;
+        width: 800px;
     }
 
    .contate{
