@@ -438,7 +438,8 @@ footer {
     }
 
     #maps{
-        margin-left: 190px;
+        width: 500px;
+        margin-left: 130px;
     }
 
     footer{
