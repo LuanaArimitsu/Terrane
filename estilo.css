@@ -408,7 +408,7 @@ footer {
     .texto2 {
         width: 700px;
         height: 700px;
-        margin-right: 15px;
+        margin-left: 50px;
     }
 
     .texto2 p {
@@ -429,15 +429,16 @@ footer {
     }
 
     .mapa h2{
+        width: 300px;
         margin-left: 280px;
     }
 
     .mapa img{
-        margin-left: 195px;
+        margin-left: 180px;
     }
 
     #maps{
-        margin-left: 80px;
+        margin-left: 170px;
     }
 
     footer{
